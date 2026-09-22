@@ -161,9 +161,3 @@ http://localhost:3000
 - SSE (Server-Sent Events) ile streaming
 - Lokal yapay zeka modellerinin web projelerine entegrasyonu
 - Veri gizliliği gerektiren senaryolarda AI çözümleri
-
----
-
-## 📜 Lisans
-
-Bu proje eğitim amaçlı geliştirilmiştir.
